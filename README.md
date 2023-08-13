@@ -2,12 +2,12 @@
 
 The goal of this project if for you to use all the things you have learned in the javaScript module to create an interactive web site. 
 
-
+//////////////////
 ## Description
 
 Create a website to check the weather!
 
-
+/////////////////
 ### html
 - Create an input field, in which the user can type the name of any city to get the weather data for that city.
 - Add a button. A click on the button should trigger the fetching of data.
